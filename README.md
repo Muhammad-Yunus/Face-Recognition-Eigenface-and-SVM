@@ -1,2 +1,2 @@
 # Face-Recognition-Eigenface-and-SVM
- Face Recognition Eigenface & AVM using OpenCV and Scikit-Learn
+ Face Recognition Eigenface & SVM (Support Vector Machine) using OpenCV and Scikit-Learn
